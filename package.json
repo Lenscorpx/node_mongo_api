@@ -1,0 +1,22 @@
+{
+  "name": "node_mongo_api",
+  "version": "1.0.0",
+  "description": "a test project for mondo and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lenscorpx/node_mongo_api.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Lens Mutombo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lenscorpx/node_mongo_api/issues"
+  },
+  "homepage": "https://github.com/Lenscorpx/node_mongo_api#readme"
+}
